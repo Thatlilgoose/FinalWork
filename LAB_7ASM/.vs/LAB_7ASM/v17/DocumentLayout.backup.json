@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andrew\\source\\repos\\LAB_7ASM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2A116B-A8E9-4140-8A72-4E0D924CE6DC}|LAB_7ASM\\LAB_7ASM.vcxproj|C:\\Users\\Andrew\\source\\repos\\LAB_7ASM\\LAB_7ASM\\LAB_7ASM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF2A116B-A8E9-4140-8A72-4E0D924CE6DC}|LAB_7ASM\\LAB_7ASM.vcxproj|solutionrelative:LAB_7ASM\\LAB_7ASM.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LAB_7ASM.cpp",
+              "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\LAB_7ASM\\LAB_7ASM\\LAB_7ASM.cpp",
+              "RelativeDocumentMoniker": "LAB_7ASM\\LAB_7ASM.cpp",
+              "ToolTip": "C:\\Users\\Andrew\\source\\repos\\LAB_7ASM\\LAB_7ASM\\LAB_7ASM.cpp*",
+              "RelativeToolTip": "LAB_7ASM\\LAB_7ASM.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-20T21:17:42.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
